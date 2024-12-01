@@ -1,0 +1,26 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 127, in script
+    $ renpy.movie_cutscene("game/images/skibidifall.webm", delay = 2, loopz = 0, stop_music = False)
+  File "game/script.rpy", line 127, in <module>
+    $ renpy.movie_cutscene("game/images/skibidifall.webm", delay = 2, loopz = 0, stop_music = False)
+TypeError: movie_cutscene() got an unexpected keyword argument 'loopz'
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 127, in script
+    $ renpy.movie_cutscene("game/images/skibidifall.webm", delay = 2, loopz = 0, stop_music = False)
+  File "/Volumes/renpy-8.3.3-sdk/renpy-8.3.3-sdk/renpy/ast.py", line 821, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "/Volumes/renpy-8.3.3-sdk/renpy-8.3.3-sdk/renpy/python.py", line 1178, in py_exec_bytecode
+    exec(bytecode, globals, locals)
+  File "game/script.rpy", line 127, in <module>
+    $ renpy.movie_cutscene("game/images/skibidifall.webm", delay = 2, loopz = 0, stop_music = False)
+TypeError: movie_cutscene() got an unexpected keyword argument 'loopz'
+
+macOS-14.6.1-arm64-arm-64bit arm64
+Ren'Py 8.3.3.24111502
+Skibidi Toilet Dating Simulator 1.0
+Sun Dec  1 16:34:25 2024

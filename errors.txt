@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 196: end of line expected.
+    st "Pookie, you're more perfect for me than a low taper fade is for Ninja. Would you like to merge our edging streaks?":
+                                                                                                                           ^
+
+Ren'Py Version: Ren'Py 8.3.3.24111502
+Sun Dec  1 14:02:31 2024
