@@ -30,7 +30,7 @@ The game includes multiple endings based on player choices:
 
 ## Credits
 - Artwork: @moralist (Instagram)
-- Development: Maximiliano López
+- Development: [Your Name]
 - Engine: Ren'Py
 
 ## Installation
@@ -41,3 +41,23 @@ Download and run the game using Ren'Py engine. Compatible with Windows, Mac, and
 - Make choices using mouse/keyboard
 - Access save/load through menu
 - ESC for game menu
+
+## Contributing
+This project is currently part of the Brainrot Hackathon and is closed for contributions until January 2nd, 2025. After the hackathon results are announced, I welcome collaborations and contributions! Feel free to:
+- Fork the repository
+- Create feature branches
+- Submit pull requests
+- Report bugs
+- Suggest improvements
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License allows you to:
+- Use the code commercially
+- Modify the code
+- Distribute the code
+- Use it privately
+- Sublicense the code
+
+The only requirement is to include the original copyright notice and license in any copy of the project.
