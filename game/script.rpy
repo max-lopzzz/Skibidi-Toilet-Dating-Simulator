@@ -35,7 +35,10 @@ label choice1_help:
 
     show skibidi happy
 
-    show stim behind st
+    show stim behind st:
+        xalign 0.1
+        yalign 0.1
+        zoom 0.25
 
     menu:
         st "That's the rizz I'm looking for, fr! You see, these CameraHeads have been edging me for days, and they've got my Grimace Shake stash. Without it, I'm just another mouth breather in the toilet gang. I need you to sneak into their lair and grab my shakes. Lock in, blud. You in?"
@@ -59,7 +62,10 @@ label choice2_nohelp:
 
     show skibidi sad
 
-    show stim behind st
+    show stim behind st:
+        xalign 0.1
+        yalign 0.1
+        zoom 0.25
 
     st "Ermm, what the Sigma? I thought you were alpha enough to help a beta in need. Turns out, you're just another bop."
 
@@ -72,7 +78,10 @@ label choice3_helplove:
 
     show skibidi love
 
-    show stim behind st
+    show stim behind st:
+        xalign 0.1
+        yalign 0.1
+        zoom 0.25
 
     menu:
         st "*Opens RizzApp* So, my little Skibidi, I've been thinkmaxxing, and I think I need to keep it a buck fiddy with you. You've got the fattest gyatt I've ever seen. It makes me want to kill myself. So how about you and me mew together from now on."
@@ -92,7 +101,10 @@ label choice4_helpfriend:
 
     show skibidi happy
 
-    show stim behind st
+    show stim behind st:
+        xalign 0.1
+        yalign 0.1
+        zoom 0.25
 
     menu:
         st "Alright blud, let's lock in. Our vibes are strong, like Lunchly and Still Prime (those who know 💀💀💀). How about we go to the backrooms and use our Balkan rage and noradrenaline on the NPCs like Skibidi broskis."
@@ -114,7 +126,10 @@ label choice5_date:
 
     show skibidi sad
 
-    show stim behind st
+    show stim behind st:
+        xalign 0.1
+        yalign 0.1
+        zoom 0.25
 
     menu:
         st "Whoa, pookie! Not Sigma… I got too lost in the sauce… My lid's all crooked now. You see that? What an L move!"
@@ -136,7 +151,10 @@ label choice6_rizz:
 
     show skibidi love
 
-    show stim behind st
+    show stim behind st:
+        xalign 0.1
+        yalign 0.1
+        zoom 0.25
 
     menu:
         st "You know, maybe you're not so bad after all… Thanks for that. You're a real one g."
@@ -177,7 +195,10 @@ label choice7_date:
 
     show skibidi love
 
-    show stim behind st
+    show stim behind st:
+        xalign 0.1
+        yalign 0.1
+        zoom 0.25
 
     menu:
         "Pookie, you're more perfect for me than a low taper fade is for Ninja. Would you like to merge our edging streaks?":
@@ -200,7 +221,10 @@ label choice8_date2:
 
     show skibidi love
 
-    show stim behind st
+    show stim behind st:
+        xalign 0.1
+        yalign 0.1
+        zoom 0.25
 
     menu:
         st "You're such a Sigma male. Like you mog everyone fr fr. How about we have a... freak off?"
@@ -219,7 +243,10 @@ label choice9_nofreak:
 
     show skibidi love
 
-    show stim behind st
+    show stim behind st:
+        xalign 0.1
+        yalign 0.1
+        zoom 0.25
 
     menu:
         st "How does a second date sound?"
